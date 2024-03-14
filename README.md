@@ -1,19 +1,24 @@
+#### Spis zadań
 <details>
-	<summary>## AiSD 1</summary>
-	### Zad01 - Sortowanie wg kryterium
-	### Zad02 - Szukanie min/max
-	### Zad03 - Selection Sort
-	### Zad04 - ShakeSort
-	### Zad05 - BubbleSort on Linked List
-	### Zad06 - Building Tree in Level Order & printing in Preorder
-	### Zad08 - Dijkstra
-	### Zad10 - Dijkstra
-	### Zad12 - Dziel i Zwyciezaj
-	### Zad15 - Programowanie Zachłanne i dynamiczne
-	### Zad18 - Sortowanie w czasie liniowym
+	<summary>AiSD 1</summary>
+	<ul>
+		<li>Zad01 - Sortowanie wg kryterium</li>
+		<li>Zad02 - Szukanie min/max</li>
+		<li>Zad03 - Selection Sort</li>
+		<li>Zad04 - ShakeSort</li>
+		<li>Zad05 - BubbleSort on Linked List</li>
+		<li>Zad06 - Building Tree in Level Order & printing in Preorder</li>
+		<li>Zad08 - Dijkstra</li>
+		<li>Zad10 - Dijkstra</li>
+		<li>Zad12 - Dziel i Zwyciezaj</li>
+		<li>Zad15 - Programowanie Zachłanne i dynamiczne</li>
+		<li>Zad18 - Sortowanie w czasie liniowym</li>
+	</ul>
 </details>
-<details>
-	<summary>## AiSD 2 [FAKULTET]</summary>
-	### Zad01 - Dijkstra
-	### Zad02 - Algorytm PRIME
+<details open>
+	<summary>AiSD 2 [FAKULTET]</summary>
+	<ul>
+		<li>Zad01 - Dijkstra</li>
+		<li>Zad02 - Algorytm PRIME</li>
+	</ul>
 </details>
