@@ -1,6 +1,6 @@
 #### Spis zadań
 <details>
-	<summary>AiSD 1</summary>
+	<summary>AiSD 1</summary open>
 	<ul>
 		<li>Zad01 - Sortowanie wg kryterium</li>
 		<li>Zad02 - Szukanie min/max</li>
@@ -15,7 +15,7 @@
 		<li>Zad18 - Sortowanie w czasie liniowym</li>
 	</ul>
 </details>
-<details open>
+<details>
 	<summary>AiSD 2 [FAKULTET] - udostepnie po zaliczeniu fakultetu, by uniknac plagiatów</summary>
 	<ul>
 		<li>Zad01 - Dijkstra</li>
