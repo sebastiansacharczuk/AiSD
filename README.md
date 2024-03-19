@@ -1,6 +1,6 @@
 #### Spis zadań
-<details>
-	<summary>AiSD 1</summary open>
+<details open>
+	<summary>AiSD 1</summary>
 	<ul>
 		<li>Zad01 - Sortowanie wg kryterium</li>
 		<li>Zad02 - Szukanie min/max</li>
