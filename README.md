@@ -16,7 +16,7 @@
 	</ul>
 </details>
 <details open>
-	<summary>AiSD 2 [FAKULTET]</summary>
+	<summary>AiSD 2 [FAKULTET] - udostepnie po zaliczeniu fakultetu, by uniknac plagiatów</summary>
 	<ul>
 		<li>Zad01 - Dijkstra</li>
 		<li>Zad02 - Algorytm PRIME</li>
